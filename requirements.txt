@@ -1,0 +1,5 @@
+uvicorn[standard]==0.17.6
+requests==2.27.1
+python-multipart==0.0.5
+websockets==10.3
+asyncio==3.4.3
